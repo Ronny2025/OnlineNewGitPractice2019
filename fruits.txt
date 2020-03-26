@@ -6,3 +6,4 @@ kiwi
 coconut
 berries
 oranges
+apple
