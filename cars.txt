@@ -4,3 +4,5 @@ BMW x6
 Audi RA
 Tesla
 mercedez benz
+Lexus GX
+Subaru WRX STI
